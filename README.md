@@ -1,7 +1,10 @@
 # AWS-EC2-Website-Hosting
 
+# Project Implementation:
+![image-125-1024x366](https://github.com/user-attachments/assets/562f0889-4847-4fc2-8e23-798242646dda)
 
-Setting Up Your EC2 Instance
+1.Setting Up Your EC2 Instance:
+
 When hosting your website, you need a virtual server on the cloud. AWS provides an EC2 instance as the virtual server.
 
 To set up an EC2 instance, you will create a virtual machine (to host your website) in the cloud that you can access remotely. With an EC2 instance, you can install the server software and applications you need to host your website.
